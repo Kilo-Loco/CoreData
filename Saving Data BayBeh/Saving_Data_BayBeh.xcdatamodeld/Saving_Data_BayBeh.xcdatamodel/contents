@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13154.30" systemVersion="16E195" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21C52" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="Person" representedClassName="Person" syncable="YES">
-        <attribute name="age" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
-        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="frequencia" optional="YES" attributeType="String"/>
+        <attribute name="inicio" optional="YES" attributeType="String"/>
+        <attribute name="medicamento" optional="YES" attributeType="String"/>
+        <attribute name="mododaaplicacao" optional="YES" attributeType="String"/>
+        <attribute name="peridododaaplicacao" optional="YES" attributeType="String"/>
+        <attribute name="proposito" optional="YES" attributeType="String"/>
     </entity>
     <elements>
-        <element name="Person" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="Person" positionX="-63" positionY="-18" width="128" height="119"/>
     </elements>
 </model>
