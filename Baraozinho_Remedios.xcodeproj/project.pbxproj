@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5A0D76A51F096D9300CB2199 /* Saving Data BayBeh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Saving Data BayBeh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A0D76A51F096D9300CB2199 /* Baraozinho_Remedios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baraozinho_Remedios.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A0D76A81F096D9300CB2199 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5A0D76AA1F096D9300CB2199 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5A0D76AD1F096D9300CB2199 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		5A0D76A61F096D9300CB2199 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5A0D76A51F096D9300CB2199 /* Saving Data BayBeh.app */,
+				5A0D76A51F096D9300CB2199 /* Baraozinho_Remedios.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5A0D76A41F096D9300CB2199 /* Saving Data BayBeh */ = {
+		5A0D76A41F096D9300CB2199 /* Baraozinho_Remedios */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5A0D76BA1F096D9300CB2199 /* Build configuration list for PBXNativeTarget "Saving Data BayBeh" */;
+			buildConfigurationList = 5A0D76BA1F096D9300CB2199 /* Build configuration list for PBXNativeTarget "Baraozinho_Remedios" */;
 			buildPhases = (
 				5A0D76A11F096D9300CB2199 /* Sources */,
 				5A0D76A21F096D9300CB2199 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = "Saving Data BayBeh";
+			name = Baraozinho_Remedios;
 			productName = "Saving Data BayBeh";
-			productReference = 5A0D76A51F096D9300CB2199 /* Saving Data BayBeh.app */;
+			productReference = 5A0D76A51F096D9300CB2199 /* Baraozinho_Remedios.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5A0D76A01F096D9300CB2199 /* Build configuration list for PBXProject "Saving Data BayBeh" */;
+			buildConfigurationList = 5A0D76A01F096D9300CB2199 /* Build configuration list for PBXProject "Baraozinho_Remedios" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5A0D76A41F096D9300CB2199 /* Saving Data BayBeh */,
+				5A0D76A41F096D9300CB2199 /* Baraozinho_Remedios */,
 			);
 		};
 /* End PBXProject section */
@@ -285,10 +285,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5K99777NES;
+				DEVELOPMENT_TEAM = 57MLN27MQM;
 				INFOPLIST_FILE = "Saving Data BayBeh/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kiloloco.Saving-Data-BayBeh";
+				PRODUCT_BUNDLE_IDENTIFIER = "Marcelo.Baraozinho-Remedios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -299,10 +299,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5K99777NES;
+				DEVELOPMENT_TEAM = 57MLN27MQM;
 				INFOPLIST_FILE = "Saving Data BayBeh/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.kiloloco.Saving-Data-BayBeh";
+				PRODUCT_BUNDLE_IDENTIFIER = "Marcelo.Baraozinho-Remedios";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,7 +312,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5A0D76A01F096D9300CB2199 /* Build configuration list for PBXProject "Saving Data BayBeh" */ = {
+		5A0D76A01F096D9300CB2199 /* Build configuration list for PBXProject "Baraozinho_Remedios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A0D76B81F096D9300CB2199 /* Debug */,
@@ -321,7 +321,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5A0D76BA1F096D9300CB2199 /* Build configuration list for PBXNativeTarget "Saving Data BayBeh" */ = {
+		5A0D76BA1F096D9300CB2199 /* Build configuration list for PBXNativeTarget "Baraozinho_Remedios" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5A0D76BB1F096D9300CB2199 /* Debug */,

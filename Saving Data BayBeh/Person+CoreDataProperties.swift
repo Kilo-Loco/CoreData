@@ -17,7 +17,11 @@ extension Person {
         return NSFetchRequest<Person>(entityName: "Person")
     }
 
-    @NSManaged public var name: String?
-    @NSManaged public var age: Int16
+    @NSManaged public var medicamento: String?
+    @NSManaged public var inicio: String?
+    @NSManaged public var frequencia: String?
+    @NSManaged public var mododaaplicacao: String?
+    @NSManaged public var periododaaplicacao: String?
+    @NSManaged public var proposito: String?
 
 }
